@@ -5,7 +5,7 @@ import visibilityFilter from './visibilityFilter';
 
 const todoApp = combineReducers({
   todos,
-  visibilityFilter
+  visibilityFilter,
 });
 
 export default todoApp
